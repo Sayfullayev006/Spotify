@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.item_liked{
+ 
+     /* width: 32px;
+    height: 32px; */
+    gap: 0px;
+    border-radius: 2px ;
+    opacity: 0px;
+    background: linear-gradient(133.58deg, #3822EA 3.13%, #C7E9D7 97.71%);
+    
+
+
+}
+.line{
+    width: 250px;
+    height: 0px;
+    margin-top: 20px;
+    margin-left: 28px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid #282828;
+
+}
+
+.Banner{
+    position: absolute;
+    width: 789px;
+    height: 3000px;
+    margin-left: 280px;
+    align-items: center;
+    gap: 0px;
+    opacity: 0px;
+    background: linear-gradient(180deg, #3333A3 5.09%, #121212 33.4%);
+
+}
